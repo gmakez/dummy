@@ -1,6 +1,7 @@
 # dummy
 Misc experiments and training, not much of interest
 
+
     | OpenSSH_6.6.1, OpenSSL 1.0.1f 6 Jan 2014
     | debug1: Reading configuration data /etc/ssh/ssh_config
     | debug1: /etc/ssh/ssh_config line 19: Applying options for *
@@ -10,3 +11,14 @@ Hung
     Maybe company fw doesn't allow ssh at all
     Need to learn https practices
     Gonna try https://help.github.com/articles/caching-your-github-password-in-git/
+
++-------------------------------------------------------------------------------
+| In previous commit I lost four line breaks. What's the magic?
+| Maybe there's some parsing rules for *.md, never seen one before.
+| Do I have to box these things to get decent.....
++-------------------------------------------------------------------------------
+| Hey, while editing this in gvim it behaves as if it knows something about *.md
++-------------------------------------------------------------------------------
+| Lesson:  either learn *.md or addd *.txt
+|
+
