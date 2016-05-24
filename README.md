@@ -27,7 +27,7 @@ Hung
 
 Found following help for *.md
 
-    https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+    [1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
     https://help.github.com/categories/writing-on-github/
 
