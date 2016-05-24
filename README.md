@@ -7,18 +7,20 @@ Misc experiments and training, not much of interest
     | debug1: /etc/ssh/ssh_config line 19: Applying options for *
     | debug2: ssh_connect: needpriv 0
     | debug1: Connecting to ssh.github.com [192.30.252.148] port 443.
-Hung
+Hung 
+
+
     Maybe company fw doesn't allow ssh at all
     Need to learn https practices
     Gonna try https://help.github.com/articles/caching-your-github-password-in-git/
 
-+-------------------------------------------------------------------------------
-| In previous commit I lost four line breaks. What's the magic?
-| Maybe there's some parsing rules for *.md, never seen one before.
-| Do I have to box these things to get decent.....
-+-------------------------------------------------------------------------------
-| Hey, while editing this in gvim it behaves as if it knows something about *.md
-+-------------------------------------------------------------------------------
-| Lesson:  either learn *.md or addd *.txt
-|
+    +-------------------------------------------------------------------------------
+    | In previous commit I lost four line breaks. What's the magic?
+    | Maybe there's some parsing rules for *.md, never seen one before.
+    | Do I have to box these things to get decent.....
+    +-------------------------------------------------------------------------------
+    | Hey, while editing this in gvim it behaves as if it knows something about *.md
+    +-------------------------------------------------------------------------------
+    | Lesson:  either learn *.md or addd *.txt
+    |
 
